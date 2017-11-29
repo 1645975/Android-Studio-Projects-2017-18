@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "35058742255",
+    "firebase_url": "https://myfirebaseapp-7b0b8.firebaseio.com",
+    "project_id": "myfirebaseapp-7b0b8",
+    "storage_bucket": "myfirebaseapp-7b0b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35058742255:android:a97621130b588d18",
+        "android_client_info": {
+          "package_name": "edu.tjhsst.myfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35058742255-19mdnv15q1chn1jb68272ftms1n09651.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.tjhsst.myfirebaseapp",
+            "certificate_hash": "a904be5f4db713f78a6e5312880addd13f9323bd"
+          }
+        },
+        {
+          "client_id": "35058742255-e2rr18u7n350hf8scaothh0rbe6hq8j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs4hESsZav5xfYKMJx1BllZQDCWvHAh3g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35058742255-e2rr18u7n350hf8scaothh0rbe6hq8j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
